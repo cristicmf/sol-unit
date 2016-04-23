@@ -1,5 +1,7 @@
 # sol-unit
 
+#DEPRECATED. See https://github.com/androlo/sol-tester
+
 Unit tests for Solidity contracts.
 
 News (2016-01-30) - There is now a library version of the `Asserter` contract called `Assertions`. It will become the standard, but the old syntax will continue to be supported.
